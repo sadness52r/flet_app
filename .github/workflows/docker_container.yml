@@ -18,3 +18,4 @@ jobs:
       run: |
         docker build -t sadness52r/flet_app .
         docker push sadness52r/flet_app
+
